@@ -31,22 +31,4 @@ I created this project to explore architecture behind personal streaming platfor
 | **Vim/Nano** | **The Pen & Paper** | Tools used to write the "Rulebooks" (Configuration files) that tell the staff how to behave. |
 | **Net-tools** | **The Signpost & Clipboard** | Used to check the library's "Street Address" (IP Address) and verify that the "Roads" (Network) are clear of traffic and working properly. |
 
-### 🗺️ Stick Diagram: The Digital Library Architecture
-
-This diagram shows how my devices connect. The Android Phone (The Road) is the central point (Gateway) that creates the entire network.
-
-```text
-       [ Android Phone ]
-       ( The Library Road / Gateway )
-       /       |       \
-      /        |        \
- (W) /     (W) |     (W) \
-    /          |          \
-   /           |           \
-[Chromebook Server]----[IdeaThinkPad Workstation]
-( The Library Building )  ( The Librarian's Desk )
-Samba & Jellyfin Services    Net-tools & Vim Utilities
-```
-
-
 To see the commands I learned or used, see the [Commands](./Commands.md) file (leads to a separate page).
