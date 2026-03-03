@@ -12,8 +12,11 @@ I created this project to explore architecture behind personal streaming platfor
 | **iPad** | Mobile streaming endpoint for verifying Jellyfin services. |
 
 ## Installations 
-* Samba: used for sharing files on a network to different operating systems 
-* OpenSSH: used for remote management and secure terminal access (Using Ideathinkpad and Chrome
-*  Jellyfin: used for Media endpoint 
-*  Net-tools: used for essential networking commands like ifconfig and netstat
-*  Nano/Vim: used for editing configuration files in the Linux terminal
+
+| Service/Tool | Purpose & Usage |
+| :--- | :--- |
+| **Samba** | Used for sharing files on a network to different operating systems. |
+| **OpenSSH** | Used for remote management and secure terminal access (Using IdeaThinkPad and Chromebook). |
+| **Jellyfin** | Used for Media endpoint. |
+| **Net-tools** | Used for essential networking commands like `ifconfig` and `netstat`. |
+| **Nano/Vim** | Used for editing configuration files in the Linux terminal. |
