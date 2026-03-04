@@ -69,7 +69,7 @@
 * **Key Learnings:**
     * **Jellyfin:** A local Netflix-style server.
     * **Proxy Risks:** Proxies (like NetShare) can see your unencrypted traffic.
-    * **Offline Mode:** You don't need internet to stream from Chromebook to iPad.
+    * **Offline Mode:** I don't need internet to stream from Chromebook to iPad.
 
 ---
 
@@ -79,7 +79,7 @@
 * **Key Learnings:**
     * **Central Hub:** The phone or a switch acts as the middle of the star.
     * **Ethernet:** The fastest, most stable "cord" that speaks **Full-Duplex**.
-    * **Static IPs:** Manual addressing when there is no "Router" to do it for you.
+    * **Static IPs:** Manual addressing when there is no "Router" to do it for me.
 ---
 
 <a name="section-7"></a>
@@ -122,7 +122,7 @@ Different OSs act as the "Security Guards" for your hardware.
 
 <a name="section-10"></a>
 ## 10. The OSI Model Context (Theory)
-When troubleshooting your "Digital Library," you are moving through the **OSI (Open Systems Interconnect) Model**.
+When troubleshooting my "Digital Library," I'm moving through the **OSI (Open Systems Interconnect) Model**.
 
 | Layer | Name | Your Lab Activity |
 | :--- | :--- | :--- |
@@ -132,21 +132,17 @@ When troubleshooting your "Digital Library," you are moving through the **OSI (O
 | **Layer 2** | Data Link | Identifying devices by **MAC Address** via a Switch. |
 | **Layer 1** | Physical | Comparing **Ethernet** vs. **USB** and managing **Attenuation**. |
 
-
-
 ---
 
 <a name="section-11"></a>
 ## 11. Encapsulation: The "Envelope" Concept
-Think of your data movement as a postal service. Each layer adds a new "wrapper" around your data.
+Think of the data movement as a postal service. Each layer adds a new "wrapper" around the data.
 
-1. **The Data:** Your movie file (Jellyfin).
+1. **The Data:** My movie file (Jellyfin).
 2. **The Segment (L4):** Chopping the movie into small pieces.
 3. **The Packet (L3):** Putting the piece in an envelope with an **IP Address** and a **TTL** number. 
    * *Lab Note:* Changing the TTL to 65 is like "writing on the envelope" before the carrier sees it.
 4. **The Frame (L2):** Putting that envelope in a delivery truck with a **MAC Address**.
-
-
 
 ---
 
@@ -155,7 +151,7 @@ Think of your data movement as a postal service. Each layer adds a new "wrapper"
 In a network, devices need a way to get their "Name Tags" (IPs).
 
 * **DHCP (Dynamic Host Configuration Protocol):** The "Librarian" (Router/Phone) automatically hands out addresses.
-* **Static IP:** You manually assign a permanent address. 
+* **Static IP:** I manually assign a permanent address. 
    * **CCNA Best Practice:** Servers (Chromebook Library) should always use **Static IPs** so clients (iPad/iPhone) always know where to find them.
 
 ---
@@ -163,8 +159,8 @@ In a network, devices need a way to get their "Name Tags" (IPs).
 <a name="section-13"></a>
 ## 13. The Default Gateway (The "Exit Sign")
 * **Definition:** The IP address of the device that leads to the "Outside World" (Internet).
-* **In Your Lab:**
-   * Your **Android Phone** acts as the Default Gateway.
+* **In My Lab:**
+   * My **Android Phone** acts as the Default Gateway.
    * If the Chromebook talks to the ThinkPad, it stays inside.
    * If the Chromebook talks to Google.com, it heads for the **Default Gateway**.
 
@@ -176,17 +172,18 @@ In a network, devices need a way to get their "Name Tags" (IPs).
 * **The Tool:** `ping`.
 * **The Goal:** Sending an "echo request" to see if a device is alive.
    * **Command:** `ping <Target_IP_Address>`
-   * **Result:** If you see "64 bytes from...", Layer 3 connectivity is confirmed.
+   * **Result:** If I see "64 bytes from...", Layer 3 connectivity is confirmed.
 
 ---
 
 <a name="glossary"></a>
 ## Glossary of CCNA Terms
+* **
 * **NAT (Network Address Translation):** Hiding many private IPs behind one public IP.
 * **Full-Duplex:** Sending and receiving data at the same time (Ethernet).
 * **Half-Duplex:** One-way communication at a time (Old Wi-Fi/Hubs).
-* **Mac Address:** The permanent "Social Security Number" of your network card.
-* **IP Address:** The temporary "Mailing Address" assigned to your device.
+* **Mac Address:** The permanent "Social Security Number" of my network card.
+* **IP Address:** The temporary "Mailing Address" assigned to my device.
 
 
 
