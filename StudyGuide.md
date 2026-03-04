@@ -176,6 +176,16 @@ In a network, devices need a way to get their "Name Tags" (IPs).
 
 ---
 
+<a name="section-15"></a>
+## 15. 🛠️ Troubleshooting Flowchart
+Use this logic when the "Library" is down:
+1. **Physical:** Is the cable plugged in? Is the Hotspot toggle on?
+2. **Data Link:** Do I see a MAC address? Can I see the device in Bluetooth settings?
+3. **Network:** Do I have an IP address? Can I **Ping** the gateway?
+4. **Application:** Is the Jellyfin service actually running on the Chromebook?
+
+---
+
 <a name="glossary"></a>
 ## Glossary of CCNA Terms
 * **
