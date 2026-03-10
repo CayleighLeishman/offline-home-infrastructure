@@ -192,96 +192,132 @@ To help you organize your Digital Library Syllabus, I've alphabetized your gloss
 
 <a name="glossary"></a>
 
-📖 Glossary of CCNA Terms
-Jump to: A | D | E | F | G | H | I | L | M | N | P | R | S | T | W
+# 📖 Glossary of CCNA Terms
 
-<a name="g-A"></a>
+**Jump to:**  
+[A](#a) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [L](#l) | [M](#m) | [N](#n) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [W](#w)
 
-A
-** Access Point (AP)**: A device that creates a wireless local area network (WLAN). It acts as a bridge between wireless devices and a wired network.
+---
 
-**Attenuation**: The natural weakening of a signal (like Wi-Fi or electrical pulses in a wire) as it travels over a distance or through obstacles.
+## A
 
-<a name="g-D"></a>
+**Access Point (AP)**  
+A device that creates a wireless local area network (WLAN). It acts as a bridge between wireless devices and a wired network.
 
-D
-**Default Gateway**: The "Exit Sign" for my network. It is the IP address of the router that my devices use to send data outside of the local network.
+**Attenuation**  
+The natural weakening of a signal (like Wi-Fi or electrical pulses in a wire) as it travels over a distance or through obstacles.
 
-**DHCP (Dynamic Host Configuration Protocol)**: The "Librarian" service that automatically assigns IP addresses to devices when they join a network.
+---
 
-<a name="g-E"></a>
+## D
 
-E
-**Encapsulation**: The process of "wrapping" data in different layers of headers (the envelope concept) as it moves down the OSI model.
+**Default Gateway**  
+The "Exit Sign" for my network. It is the IP address of the router that my devices use to send data outside of the local network.
 
-**Ethernet**: The standard technology for wired local area networks. It uses cables (like Cat6) to provide fast, stable, Full-Duplex communication.
+**DHCP (Dynamic Host Configuration Protocol)**  
+The "Librarian" service that automatically assigns IP addresses to devices when they join a network.
 
-<a name="g-F"></a>
+---
 
-F
-**Full-Duplex**: A communication mode where data can be sent and received at the exact same time (like a telephone conversation).
+## E
 
-<a name="g-G"></a>
+**Encapsulation**  
+The process of "wrapping" data in different layers of headers (the envelope concept) as it moves down the OSI model.
 
-G
-**Global Backbone**: The massive, high-speed fiber optic cables that connect continents and major ISPs to form the core of the Internet.
+**Ethernet**  
+The standard technology for wired local area networks. It uses cables (like Cat6) to provide fast, stable, Full-Duplex communication.
 
-<a name="g-H"></a>
+---
 
-H
-**Half-Duplex**: A communication mode where only one device can transmit at a time (like a walkie-talkie).
+## F
 
-<a name="g-I"></a>
+**Full-Duplex**  
+A communication mode where data can be sent and received at the exact same time (like a telephone conversation).
 
-I
-**ICMP (Internet Control Message Protocol)**: The protocol used for "error reporting" and testing connectivity. It is the engine behind the ping command.
+---
 
-**IP Address** : My temporary "Mailing Address." A logical address assigned by software to identify my device on a network.
+## G
 
-<a name="g-L"></a>
+**Global Backbone**  
+The massive, high-speed fiber optic cables that connect continents and major ISPs to form the core of the Internet.
 
-L
-**LAN (Local Area Network)**: My private "neighborhood" of devices inside my home or lab.
+---
 
-<a name="g-M"></a>
+## H
 
-M
-**MAC Address (Media Access Control)**: My permanent "Social Security Number" for my network card. A physical address burned into the hardware.
+**Half-Duplex**  
+A communication mode where only one device can transmit at a time (like a walkie-talkie).
 
-<a name="g-N"></a>
+---
 
-N
-**NAT (Network Address Translation)**: Hiding many private IPs behind one single public IP address to save space and add security.
+## I
 
-**Node**: Any single device connected to my network, whether it's a server, laptop, or phone.
+**ICMP (Internet Control Message Protocol)**  
+The protocol used for error reporting and testing connectivity. It is the engine behind the `ping` command.
 
-<a name="g-P"></a>
+**IP Address**  
+My temporary "Mailing Address." A logical address assigned by software to identify my device on a network.
 
-P
-**Packet**: The unit of data at Layer 3 (Network Layer) that contains the IP addresses and the TTL value.
+---
 
-<a name="g-R"></a>
+## L
 
-R
-**Router**: The "Border Guard" that connects two different networks (like my LAN to the Internet). It makes decisions based on IP addresses.
+**LAN (Local Area Network)**  
+My private "neighborhood" of devices inside my home or lab.
 
-<a name="g-S"></a>
+---
 
-S
-**Static IP**: An IP address that I manually assign to a device so it never changes (best for servers like my Jellyfin lab).
+## M
 
-**Switch**: The "Internal Street Manager." It connects devices within a LAN and uses MAC addresses to send data to the right port.
+**MAC Address (Media Access Control)**  
+My permanent "Social Security Number" for my network card. A physical address burned into the hardware.
 
-<a name="g-T"></a>
+---
 
-T
-**TTL (Time To Live)**: A value in the IP header that prevents packets from looping forever. It drops by 1 every time it hits a router.
+## N
 
-<a name="g-W"></a>
+**NAT (Network Address Translation)**  
+Hiding many private IPs behind one single public IP address to save space and add security.
 
-W
-**WAN (Wide Area Network)**: A large-scale network that connects multiple LANs. The Internet is the world's largest WAN.
+**Node**  
+Any single device connected to my network, whether it's a server, laptop, or phone.
 
+---
 
+## P
+
+**Packet**  
+The unit of data at Layer 3 (Network Layer) that contains the IP addresses and the TTL value.
+
+---
+
+## R
+
+**Router**  
+The "Border Guard" that connects two different networks (like my LAN to the Internet). It makes decisions based on IP addresses.
+
+---
+
+## S
+
+**Static IP**  
+An IP address that I manually assign to a device so it never changes (best for servers like my Jellyfin lab).
+
+**Switch**  
+The "Internal Street Manager." It connects devices within a LAN and uses MAC addresses to send data to the right port.
+
+---
+
+## T
+
+**TTL (Time To Live)**  
+A value in the IP header that prevents packets from looping forever. It drops by 1 every time it hits a router.
+
+---
+
+## W
+
+**WAN (Wide Area Network)**  
+A large-scale network that connects multiple LANs. The Internet is the world's largest WAN.
 
 
