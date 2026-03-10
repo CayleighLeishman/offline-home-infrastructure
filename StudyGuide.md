@@ -192,7 +192,7 @@ To help you organize your Digital Library Syllabus, I've alphabetized your gloss
 
 <a name="glossary"></a>
 
-# 📖 Glossary of CCNA Terms
+# Glossary of CCNA Terms
 
 **Jump to:**  
 [A](#a) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [L](#l) | [M](#m) | [N](#n) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [W](#w)
