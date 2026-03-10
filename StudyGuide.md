@@ -188,15 +188,99 @@ Use this logic when the "Library" is down:
 
 <a name="glossary"></a>
 ## Glossary of CCNA Terms
-* **
-* **NAT (Network Address Translation):** Hiding many private IPs behind one public IP.
-* **Full-Duplex:** Sending and receiving data at the same time (Ethernet).
-* **Half-Duplex:** One-way communication at a time (Old Wi-Fi/Hubs).
-* **Mac Address:** The permanent "Social Security Number" of my network card.
-* **IP Address:** The temporary "Mailing Address" assigned to my device.
+To help you organize your Digital Library Syllabus, I've alphabetized your glossary and added a "Jump to Letter" navigation bar. I also filled in the missing definitions for the terms we've discussed today to make it a complete reference for your CCNA studies.
 
+<a name="glossary"></a>
 
+📖 Glossary of CCNA Terms
+Jump to: A | D | E | F | G | H | I | L | M | N | P | R | S | T | W
 
+<a name="g-A"></a>
+
+A
+** Access Point (AP)**: A device that creates a wireless local area network (WLAN). It acts as a bridge between wireless devices and a wired network.
+
+**Attenuation**: The natural weakening of a signal (like Wi-Fi or electrical pulses in a wire) as it travels over a distance or through obstacles.
+
+<a name="g-D"></a>
+
+D
+**Default Gateway**: The "Exit Sign" for my network. It is the IP address of the router that my devices use to send data outside of the local network.
+
+**DHCP (Dynamic Host Configuration Protocol)**: The "Librarian" service that automatically assigns IP addresses to devices when they join a network.
+
+<a name="g-E"></a>
+
+E
+**Encapsulation**: The process of "wrapping" data in different layers of headers (the envelope concept) as it moves down the OSI model.
+
+**Ethernet**: The standard technology for wired local area networks. It uses cables (like Cat6) to provide fast, stable, Full-Duplex communication.
+
+<a name="g-F"></a>
+
+F
+**Full-Duplex**: A communication mode where data can be sent and received at the exact same time (like a telephone conversation).
+
+<a name="g-G"></a>
+
+G
+**Global Backbone**: The massive, high-speed fiber optic cables that connect continents and major ISPs to form the core of the Internet.
+
+<a name="g-H"></a>
+
+H
+**Half-Duplex**: A communication mode where only one device can transmit at a time (like a walkie-talkie).
+
+<a name="g-I"></a>
+
+I
+**ICMP (Internet Control Message Protocol)**: The protocol used for "error reporting" and testing connectivity. It is the engine behind the ping command.
+
+**IP Address** : My temporary "Mailing Address." A logical address assigned by software to identify my device on a network.
+
+<a name="g-L"></a>
+
+L
+**LAN (Local Area Network)**: My private "neighborhood" of devices inside my home or lab.
+
+<a name="g-M"></a>
+
+M
+**MAC Address (Media Access Control)**: My permanent "Social Security Number" for my network card. A physical address burned into the hardware.
+
+<a name="g-N"></a>
+
+N
+**NAT (Network Address Translation)**: Hiding many private IPs behind one single public IP address to save space and add security.
+
+**Node**: Any single device connected to my network, whether it's a server, laptop, or phone.
+
+<a name="g-P"></a>
+
+P
+**Packet**: The unit of data at Layer 3 (Network Layer) that contains the IP addresses and the TTL value.
+
+<a name="g-R"></a>
+
+R
+**Router**: The "Border Guard" that connects two different networks (like my LAN to the Internet). It makes decisions based on IP addresses.
+
+<a name="g-S"></a>
+
+S
+**Static IP**: An IP address that I manually assign to a device so it never changes (best for servers like my Jellyfin lab).
+
+**Switch**: The "Internal Street Manager." It connects devices within a LAN and uses MAC addresses to send data to the right port.
+
+<a name="g-T"></a>
+
+T
+**TTL (Time To Live)**: A value in the IP header that prevents packets from looping forever. It drops by 1 every time it hits a router.
+
+<a name="g-W"></a>
+
+W
+**WAN (Wide Area Network)**: A large-scale network that connects multiple LANs. The Internet is the world's largest WAN.
 
 
 
