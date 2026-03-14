@@ -35,10 +35,10 @@ I was shocked by how fast that was. But it was good. Uninstalling games and some
 
 ## **Helpful Links**
 --
-[The Art of using Linux, and why YOU should too By: diinki](https://www.youtube.com/watch?v=z4iSZetVkRg&list=PL0MIQt2UqdYpwdReoJ9h8-cVaOvvGm7kQ&index=78) **opens in a new page**
-[10 Things To Know About DEBIAN Linux By:The Linux Cast](https://www.youtube.com/watch?v=bUykbKO3JiA&list=LL&index=4&t=454s) **opens in a new tab**
-[How to (actually) learn Linux By: Bread on Penguins](https://www.youtube.com/watch?v=j-Ha0vl-0ME&list=LL&index=7) **opens in a new tab**
-[Ubuntu 22.04 LTS Vs Debian 12 | This FINALLY Made Me Switch! By: Linux Tex](https://www.youtube.com/watch?v=O1V5zBDnHSY&t=261s) **opens in a new tab**
+* [The Art of using Linux, and why YOU should too By: diinki](https://www.youtube.com/watch?v=z4iSZetVkRg&list=PL0MIQt2UqdYpwdReoJ9h8-cVaOvvGm7kQ&index=78) **opens in a new page**
+* [10 Things To Know About DEBIAN Linux By:The Linux Cast](https://www.youtube.com/watch?v=bUykbKO3JiA&list=LL&index=4&t=454s) **opens in a new tab**
+* [How to (actually) learn Linux By: Bread on Penguins](https://www.youtube.com/watch?v=j-Ha0vl-0ME&list=LL&index=7) **opens in a new tab**
+* [Ubuntu 22.04 LTS Vs Debian 12 | This FINALLY Made Me Switch! By: Linux Tex](https://www.youtube.com/watch?v=O1V5zBDnHSY&t=261s) **opens in a new tab**
 
 
 ## **The Quick Glossary**
@@ -68,13 +68,10 @@ I was shocked by how fast that was. But it was good. Uninstalling games and some
 **Jellyfin**: A media server (like a private Netflix) I'm building for movies and bonus features.
 
 ## The Roadmap For Linux Lenovo (Getting the Lab Ready)
--- Prepare the Server: Install Cockpit and find my IP address.
-
--- Remote Access: Log in to the ThinkPad from my Windows PC or Chromebook via Port 9090.
-
--- Media Pipeline: Set up Handbrake and Docker to prepare for my DVD library down the line. 
-
--- Networking Practice: Set a Static IP and use Wireshark to watch the network in real-time.
+- Prepare the Server: Install Cockpit and find my IP address.
+- Remote Access: Log in to the ThinkPad from my Windows PC or Chromebook via Port 9090.
+- Media Pipeline: Set up Handbrake and Docker to prepare for my DVD library down the line. 
+- Networking Practice: Set a Static IP and use Wireshark to watch the network in real-time.
 
 Random Thought:
 ---
