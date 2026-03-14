@@ -41,7 +41,7 @@ I was shocked by how fast that was. But it was good. Uninstalling games and some
 [Ubuntu 22.04 LTS Vs Debian 12 | This FINALLY Made Me Switch! By: Linux Tex](https://www.youtube.com/watch?v=O1V5zBDnHSY&t=261s) **opens in a new tab**
 
 
-## **_The Quick Glossary_**
+## **The Quick Glossary**
 --
 **ISO**: A single file that acts as a "blueprint" or "clone" of an entire operating system disk.
 
