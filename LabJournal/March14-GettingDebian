@@ -1,4 +1,5 @@
 ### The ThinkPad Transition (Windows to Debian)
+
 Okay, I finally got my USB in the mail so I decided to finally install Linux onto the laptop my cousin didn't want anymore.
 I started trying to figure it out last night—what I needed to make the Lenovo Windows change into a Linux OS. It was overwhelming
 looking at all these different links. Eventually, I gave up and used Gemini to help me install stuff and learn different things
@@ -14,6 +15,7 @@ But after some trial and error, I learned I actually needed what I called a "tra
 myself, but I would ask Gemini why someone might want one choice over another.
 
 ## **Why Debian?**
+---
 I decided to use Debian because I heard lots of great things about using this to get hands-on with servers and learn hands-on. I also debated 
 about using Ubuntu instead since I've used that before in classes. I decided I wanted to try to challenge myself and expand my usage of Linux. 
 A lot of the reading and videos I watched talked about how Debian was more "heavy" to use, so I figured I'd try to give that a good start. I
@@ -24,12 +26,14 @@ in the kernel and terminal. Once it downloaded (cough One day and five hours lat
 around the laptop instead of getting right to getting everything I needed for the homelab up and running.
 
 ## **First Impressions**
+---
 Something that surprised me was that I actually loved the GUI more than I thought. I will admit it does feel more like a tablet than an actual 
 laptop so it'll probably take some adjustment, but I'm okay with it. The main hangup I'm having is for some reason I'm having difficulty closing 
 Firefox, the app store, and any other services I open. I did notice scrolling was significantly faster, especially for scrolling on Firefox. 
 I was shocked by how fast that was. But it was good. Uninstalling games and some apps were also surprisingly fast to get rid of too, which was WILD.
 
 ## **Helpful Links**
+---
 [The Art of using Linux, and why YOU should too By: diinki](https://www.youtube.com/watch?v=z4iSZetVkRg&list=PL0MIQt2UqdYpwdReoJ9h8-cVaOvvGm7kQ&index=78) **opens in a new page**
 [10 Things To Know About DEBIAN Linux By:The Linux Cast](https://www.youtube.com/watch?v=bUykbKO3JiA&list=LL&index=4&t=454s) **opens in a new tab**
 [How to (actually) learn Linux By: Bread on Penguins](https://www.youtube.com/watch?v=j-Ha0vl-0ME&list=LL&index=7) **opens in a new tab**
@@ -37,6 +41,7 @@ I was shocked by how fast that was. But it was good. Uninstalling games and some
 
 
 ## **_The Quick Glossary_**
+--
 **ISO**: A single file that acts as a "blueprint" or "clone" of an entire operating system disk.
 
 **GUI (Graphical User Interface)**: The visible things you see when you first log into your laptop.
@@ -52,6 +57,7 @@ I was shocked by how fast that was. But it was good. Uninstalling games and some
 **Mounting**: The process of "opening" a drive so the OS can see the files inside.
 
 # **Programs I Learned About** 
+--
 **Cockpit**: A web dashboard that lets me manage my Linux laptop from my Windows PC or Chromebook. Which sounds *AMAZING*
 
 ****lsblk*****: The command used to "list block devices" (to find where the USB is hiding).
@@ -70,6 +76,7 @@ I was shocked by how fast that was. But it was good. Uninstalling games and some
 -- Networking Practice: Set a Static IP and use Wireshark to watch the network in real-time.
 
 Random Thought:
+---
 I also kind of want to use Ubuntu, but I think I'll leave my other Lenovo to stay a Windows for now. Though I wouldn't be surprised if I change my mind.
 Nothing is really set in stone as I’m still trying to figure out how to adapt everything. But I figured that I wanted to see if I could figure out how
 to use a Windows OS, Chromebook OS, Linux, and Apple device all together. I think it'll help for it to be diversified so I can learn how to navigate the 
