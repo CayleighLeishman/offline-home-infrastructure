@@ -1,4 +1,5 @@
 ### The ThinkPad Transition (Windows to Debian)
+---
 
 Okay, I finally got my USB in the mail so I decided to finally install Linux onto the laptop my cousin didn't want anymore.
 I started trying to figure it out last night—what I needed to make the Lenovo Windows change into a Linux OS. It was overwhelming
@@ -15,7 +16,7 @@ But after some trial and error, I learned I actually needed what I called a "tra
 myself, but I would ask Gemini why someone might want one choice over another.
 
 ## **Why Debian?**
----
+--
 I decided to use Debian because I heard lots of great things about using this to get hands-on with servers and learn hands-on. I also debated 
 about using Ubuntu instead since I've used that before in classes. I decided I wanted to try to challenge myself and expand my usage of Linux. 
 A lot of the reading and videos I watched talked about how Debian was more "heavy" to use, so I figured I'd try to give that a good start. I
@@ -26,14 +27,14 @@ in the kernel and terminal. Once it downloaded (cough One day and five hours lat
 around the laptop instead of getting right to getting everything I needed for the homelab up and running.
 
 ## **First Impressions**
----
+--
 Something that surprised me was that I actually loved the GUI more than I thought. I will admit it does feel more like a tablet than an actual 
 laptop so it'll probably take some adjustment, but I'm okay with it. The main hangup I'm having is for some reason I'm having difficulty closing 
 Firefox, the app store, and any other services I open. I did notice scrolling was significantly faster, especially for scrolling on Firefox. 
 I was shocked by how fast that was. But it was good. Uninstalling games and some apps were also surprisingly fast to get rid of too, which was WILD.
 
 ## **Helpful Links**
----
+--
 [The Art of using Linux, and why YOU should too By: diinki](https://www.youtube.com/watch?v=z4iSZetVkRg&list=PL0MIQt2UqdYpwdReoJ9h8-cVaOvvGm7kQ&index=78) **opens in a new page**
 [10 Things To Know About DEBIAN Linux By:The Linux Cast](https://www.youtube.com/watch?v=bUykbKO3JiA&list=LL&index=4&t=454s) **opens in a new tab**
 [How to (actually) learn Linux By: Bread on Penguins](https://www.youtube.com/watch?v=j-Ha0vl-0ME&list=LL&index=7) **opens in a new tab**
