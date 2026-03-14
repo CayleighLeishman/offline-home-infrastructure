@@ -1,11 +1,11 @@
 # **Quick Summary**
 
-            | Situation              | Method               |
-            | ---------------------- | -------------------- |
-            | Family in my house     | Private IP + `:8096` |
-            | Family outside         | Port forwarding      |
-            | More secure sharing    | VPN / Tailscale      |
-            | Advanced homelab setup | Reverse proxy        |  
+| Situation              | Method               |
+| ---------------------- | -------------------- |
+| Family in my house     | Private IP + `:8096` |
+| Family outside         | Port forwarding      |
+| More secure sharing    | VPN / Tailscale      |
+| Advanced homelab setup | Reverse proxy        |  
 
 ---
 
