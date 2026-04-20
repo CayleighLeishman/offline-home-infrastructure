@@ -306,5 +306,5 @@ ip -6 addr
 
 ### V
 *  **vertices:** More than one Vertex.
-*  **Vertex:** single point (or node) in a network or graph where connections (edges) meet.(In a Graph its a dot where the lines meet)
+*  **Vertex:** single point (or node) in a network or graph where connections (edges) meet. 
 
