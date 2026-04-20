@@ -225,7 +225,7 @@ ip -6 addr
 
 ---
 
-### 🛠️ Troubleshooting Flowchart
+### Troubleshooting Flowchart
 
 1. Physical → cable & hotspot
 2. Data Link → MAC visibility
@@ -258,11 +258,12 @@ ip -6 addr
 ### D
 
 * **Default Gateway:** exit sign for network
+* **Degree:** How Many Edges Connect to a Vertex
 * **DHCP:** automatically assigns IPs
 * **Dual Stack:** IPv4 + IPv6 simultaneously
 
 ### E
-
+* **Edges:** a line (or road) that connects two vertices.
 * **Encapsulation:** wrapping data for transmission
 * **Ethernet:** wired Cat6 network
 
@@ -302,3 +303,8 @@ ip -6 addr
 ### U
 
 * **UDP:** fast, unreliable delivery
+
+### V
+*  **vertices:** More than one Vertex.
+*  **Vertex:** single point (or node) in a network or graph where connections (edges) meet.(In a Graph its a dot where the lines meet)
+
